@@ -147,12 +147,11 @@ const styles = StyleSheet.create({
     bottom: 50,
   },
   text: {
-    color: COLORS.white,
+    color: COLORS.black,
     textAlign: 'center',
     fontFamily: FONTS.black,
     fontSize: 30,
     marginVertical: '25%',
-    backgroundColor: COLORS.main,
     paddingVertical: 30,
   },
 });
